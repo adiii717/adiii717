@@ -113,7 +113,7 @@ Passionate **Site Reliability Engineer** with **10+ years** of experience buildi
 <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
 </p>
 
-### Security & Secrets Management
+### Security & Compliance
 <p align="left">
 <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" />
 <img src="https://img.shields.io/badge/Sealed_Secrets-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -123,6 +123,15 @@ Passionate **Site Reliability Engineer** with **10+ years** of experience buildi
 <img src="https://img.shields.io/badge/Falco-00AEC7?style=for-the-badge&logo=falco&logoColor=white" />
 <img src="https://img.shields.io/badge/OPA-7D9FC3?style=for-the-badge&logo=openpolicyagent&logoColor=white" />
 <img src="https://img.shields.io/badge/Kyverno-FF9800?style=for-the-badge&logo=kyverno&logoColor=white" />
+<img src="https://img.shields.io/badge/Orca_Security-0080FF?style=for-the-badge&logo=orca&logoColor=white" />
+<img src="https://img.shields.io/badge/SAST-4A154B?style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/DAST-E34F26?style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+<img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+<img src="https://img.shields.io/badge/SOC_1-000000?style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/SOC_2-000000?style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/ISO_27001-0066CC?style=for-the-badge&logo=iso&logoColor=white" />
+<img src="https://img.shields.io/badge/PCI--DSS-1A1F71?style=for-the-badge&logo=security&logoColor=white" />
 </p>
 
 ### Programming & Scripting
