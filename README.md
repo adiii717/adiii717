@@ -163,6 +163,23 @@ Passionate **Site Reliability Engineer** with **10+ years** of experience buildi
 
 ## Featured Projects
 
+### [JeelPay](https://www.jeel.co) - Cloud Migration
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white)
+![Linkerd](https://img.shields.io/badge/Linkerd-2BEDA7?style=flat-square&logo=linkerd&logoColor=black)
+
+Led complete infrastructure migration from **DigitalOcean to Oracle Cloud**. Implemented production-grade Kubernetes with GitOps, Vault secrets management, Linkerd service mesh, and Loki logging with S3-compatible storage.
+
+### [DrumTune PRO](https://www.drumtunepro.com) - Cloud Migration
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Orca Security](https://img.shields.io/badge/Orca_Security-0080FF?style=flat-square&logo=orca&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab_Runner-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+Migrated entire infrastructure from **Azure to Alibaba Cloud**. Implemented GitOps with Orca Security scanning, GitLab runners on Alibaba Kubernetes, Vault secrets management, and full observability stack.
+
 ### [k8s-gitops](https://github.com/adiii717/k8s-gitops)
 Production-ready GitOps repository with ArgoCD App of Apps pattern. Scalable Kubernetes infrastructure management with complete observability stack (SigNoz, k8s-infra, metrics-server).
 
