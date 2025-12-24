@@ -163,14 +163,32 @@ Passionate **Site Reliability Engineer** with **10+ years** of experience buildi
 
 ## Featured Projects
 
+### [LeadIQ](https://www.leadiq.com) - Senior DevOps Engineer (Sep 2020 – Oct 2025)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+- Delivered **$60K+ annual AWS cost savings** through rightsizing, storage lifecycle tuning, and infrastructure optimization
+- Led **zero-downtime migrations**: Kafka→MSK, Elasticsearch→OpenSearch, JFrog→GitLab, Redshift→Databricks, Debezium→MSK Connector
+- Migrated observability from OpenTelemetry Helm charts to **Datadog native OTLP integration**, simplifying telemetry pipelines
+- Implemented **Bottlerocket OS** for EKS nodes with distroless containers and non-root execution, reducing CVE exposure
+- Resolved critical CPU throttling and optimized **HPA/KEDA autoscaling**, reducing compute costs by 30-40%
+- Created **200+ Terraform-based Datadog alerts** for comprehensive observability
+- Implemented **ArgoCD GitOps (app-of-apps)** for complete EKS cluster management
+- Enhanced security with Redis TLS encryption, MongoDB-to-MSK integration, and **SOC-1/SOC-2 compliance**
+
 ### [JeelPay](https://www.jeel.co) - Cloud Migration
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white)
 ![Linkerd](https://img.shields.io/badge/Linkerd-2BEDA7?style=flat-square&logo=linkerd&logoColor=black)
 
-Led complete infrastructure migration from **DigitalOcean to Oracle Cloud**. Implemented production-grade Kubernetes with GitOps, Vault secrets management, Linkerd service mesh, and Loki logging with S3-compatible storage.
+Led complete infrastructure migration from **DigitalOcean to Oracle Cloud**. Implemented production-grade Kubernetes with GitOps, Vault secrets management, Linkerd service mesh, and Loki logging with S3-compatible storage. **Alibaba Cloud** used for compliance database backups.
 
 ### [DrumTune PRO](https://www.drumtunepro.com) - Cloud Migration
 ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
