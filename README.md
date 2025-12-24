@@ -180,6 +180,22 @@ Passionate **Site Reliability Engineer** with **10+ years** of experience buildi
 - Implemented **ArgoCD GitOps (app-of-apps)** for complete EKS cluster management
 - Enhanced security with Redis TLS encryption, MongoDB-to-MSK integration, and **SOC-1/SOC-2 compliance**
 
+### [Abode](https://goabode.com) - IoT Home Automation Platform
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+
+- Introduced **Terraform-based IaC**, automating legacy manual processes and cutting deployment failures by 95%
+- Achieved **99% uptime** for IoT gateway by optimizing event ingestion and migrating to AWS Lambda with seamless autoscaling
+- Directed **monolith to microservices migration** with zero downtime, enabling horizontal scalability
+- Reduced deployment time from **days to 30 minutes** through single-command provisioning and automated CI/CD
+- Dockerized development environments, reducing onboarding from days to 30 minutes
+- Built custom **Sensu checks** and routed gateway logs to Datadog for proactive alerting
+- Integrated **Sensu with Twilio** for automated call/SMS escalation on service downtime with 24/7 incident acknowledgment
+
 ### [JeelPay](https://www.jeel.co) - Cloud Migration
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
